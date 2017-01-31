@@ -18,7 +18,7 @@ This repo is for a series called 'Build a Reddit API Clone' You can follow this 
   * <a href="https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/" target="_blank">Install MongoDB Community Edition on Windows</a>
   * You also have the option of creating a sandbox MongoDB instance on mLab or another MongoDB hosting service and connecting to that.
     * <a href="https://mlab.com/" target="_blank">mLab</a>
-    * <a href="http://docs.mlab.com/connecting/" target="_blank">Connecting to DB instance</a>
+    * <a href="http://docs.mlab.com/connecting/" target="_blank">Connecting to mLab DB instance</a>
 
 3. Clone this repo, run ```npm install```, open repo in your text editor of choice, and run ```npm start``` now we're ready to go!
 
