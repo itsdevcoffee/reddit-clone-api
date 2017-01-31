@@ -20,4 +20,4 @@ This repo is for a series called 'Build a Reddit API Clone' You can follow this 
     * <a href="https://mlab.com/" target="_blank">mLab</a>
     * <a href="http://docs.mlab.com/connecting/" target="_blank">Connecting to DB instance</a>
 
-3. Clone this repo, run 'npm install', repo in your text editor of choice, and run 'npm start' now we're ready to go!
+3. Clone this repo, run ```npm install```, open repo in your text editor of choice, and run ```npm start``` now we're ready to go!
