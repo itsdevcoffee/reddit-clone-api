@@ -1,1 +1,1 @@
-console.log(process.env.PORT);
+console.log('index.js');

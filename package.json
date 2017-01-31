@@ -5,10 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node bin/dev",
+    "start": "nodemon bin/dev",
     "clean": "rm -rf dist",
     "build": "npm run clean && mkdir dist && babel server -s -d dist",
-    "production": "npm run build && node bin/production"
+    "production": "npm run build && nodemon bin/production"
   },
   "repository": {
     "type": "git",
@@ -25,6 +25,7 @@
     "babel-preset-es2015": "^6.22.0",
     "babel-preset-stage-2": "^6.22.0",
     "babel-register": "^6.22.0",
-    "dotenv": "^4.0.0"
+    "dotenv": "^4.0.0",
+    "nodemon": "^1.11.0"
   }
 }
