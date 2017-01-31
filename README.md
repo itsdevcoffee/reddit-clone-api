@@ -22,4 +22,4 @@ This repo is for a series called 'Build a Reddit API Clone' You can follow this 
 
 3. Clone this repo, run ```npm install```, open repo in your text editor of choice, and run ```npm start``` now we're ready to go!
 
-Bonus: Look over the <a href="http://mongoosejs.com/" target="_blank">Mongoose</a> documentation.
+Bonus: Look over the <a href="http://mongoosejs.com/" target="_blank">Mongoose documentation</a>.
