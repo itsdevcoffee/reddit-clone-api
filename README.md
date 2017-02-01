@@ -20,6 +20,8 @@ This repo is for a series called 'Build a Reddit API Clone' You can follow this 
     * <a href="https://mlab.com/" target="_blank">mLab</a>
     * <a href="http://docs.mlab.com/connecting/" target="_blank">Connecting to mLab DB instance</a>
 
-3. Clone this repo, run ```npm install```, open repo in your text editor of choice, and run ```npm start``` now we're ready to go!
+3. Download Postman to test and work with our API - <a href="https://www.getpostman.com/" target="_blank">Postman Download</a>
+
+4. Clone this repo, run ```npm install```, open repo in your text editor of choice, and run ```npm start``` now we're ready to go!
 
 Bonus: Look over the <a href="http://mongoosejs.com/" target="_blank">Mongoose documentation</a>.
